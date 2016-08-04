@@ -1,0 +1,1 @@
+Custom User defined exception - Unchecked exception example
